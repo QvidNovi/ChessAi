@@ -1,0 +1,12 @@
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.exe
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.deps.json
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.runtimeconfig.json
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.runtimeconfig.dev.json
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.dll
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\bin\Release\netcoreapp3.1\ChessAi.pdb
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.AssemblyInfoInputs.cache
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.AssemblyInfo.cs
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.csproj.CoreCompileInputs.cache
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.dll
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.pdb
+D:\Source\Repos\KirkISS\rg18ts\ChessAi\ChessAi\obj\Release\netcoreapp3.1\ChessAi.genruntimeconfig.cache

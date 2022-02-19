@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbwq3ituwIIU8beuH4si8biOvIKP71EshHw5fVptWZ9fCN/NCllp8I6YFSC4OBuJm8Td0p9L94hQMzROdUjNKA==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Repos\\KirkISS\\rg18ts\\ChessAi\\ChessAi\\ChessAi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riley Gervais\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
